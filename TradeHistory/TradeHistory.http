@@ -1,0 +1,6 @@
+@TradeHistory_HostAddress = http://localhost:5100
+
+GET {{TradeHistory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
